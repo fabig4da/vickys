@@ -7,9 +7,6 @@
 }
 
 @media (min-width: 900px) {
-  .container {
-    min-width: 1200px;
-  }
   header {
     width: 100%;
     height: 80px;
